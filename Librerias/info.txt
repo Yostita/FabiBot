@@ -1,0 +1,11 @@
+Por el momento se:
+    Decir mi nombre (Como te llamas?, Cual es tu nombre?,...)
+    Servir como Calculadora (Quiero usar la calculadora...)
+    Abrir la app No Mas Morosos (Abrir app no mas moros...)
+    Trabajar con ficheros (Modificar un fichero, Enviar fichero, Descargar fichero...)
+    Hacer un mantenimiento del sistema (Mantenimiento, Hacer mantenimiento...)
+    Decir que dia es hoy (Que dia es hoy?...)
+    Jugar a juegos (Quiero jugar, Vamos a jugar a un juego...)
+    Enviarte un recordatorio al movil (Enviame un recordatorio al movil, Recordatorio...)
+
+Pero cada dia aprendo cosas nuevas.
